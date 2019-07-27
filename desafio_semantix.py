@@ -1,6 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+
+#Dados:
+#Jul 01 to Jul 31, ASCII format, 20.7 MB gzip compressed, 205.2 MB.
+#Aug 04 to Aug 31, ASCII format, 21.8 MB gzip compressed, 167.8 MB.
+
+
+
 # In[28]:
 
 
